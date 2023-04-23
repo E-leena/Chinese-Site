@@ -1,0 +1,50 @@
+.head{
+    background-color: #ff9e32;
+    height: 100vh;
+    }
+    .right-row{
+        padding: 5% 0;
+    }
+    
+    .box-text{
+    background-color: #ff9e32;
+
+    }
+   
+    .slider{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    #testamonials{
+    background-color: #1d1d1c;
+
+    }
+    #contact{
+        background-color: #ff9e32;
+    }
+
+     h5{
+        color: #ff9e32;
+    }
+
+   h2{
+    font-weight: 700;
+    color: #ff9e32;
+   }
+   .para{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 25%;
+   }
+   form{
+    margin-left: 80px;
+   }
+   footer{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    
+   }
